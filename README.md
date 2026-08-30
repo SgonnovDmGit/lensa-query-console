@@ -62,21 +62,20 @@
 грант — 500. Обращение к ИИ списывает монеты, сборка готового файла стоит одну монету.
 Ключ, полученный при регистрации, открывает также канал обновлений Демо-редакции.
 
-Регистрация: [digitalmechanics.dev](https://digitalmechanics.dev/)
+Регистрация: [digitalmechanics.dev](https://digitalmechanics.dev/?utm_source=github&utm_medium=repo&utm_campaign=gh-readme)
 
 ## Документация
 
 - [Что нового в Демо-версии](docs/ЧтоНового.md) — список изменений по версиям
 - [Сравнение полной и Демо-версий](docs/Сравнение_полной_и_демо_версий.md)
-- [Справка](docs/Справка_КонсольЗапросов.html) — один самодостаточный HTML-файл
-  с картинками внутри. GitHub его не отрисовывает: скачайте и откройте в браузере.
+- [Справка](docs/Справка_КонсольЗапросов.md) — полное руководство по Демо-редакции.
   Та же справка встроена в саму обработку.
 
 ## Полная версия
 
 Профессиональный редактор с подсветкой и автодополнением, фоновое выполнение, навигатор
 пакетов и временных таблиц, анализ строк результата ИИ-агентом. Продаётся одним платежом,
-без подписки — [digitalmechanics.dev/lensa/query-console](https://digitalmechanics.dev/lensa/query-console)
+без подписки — [digitalmechanics.dev/lensa/query-console](https://digitalmechanics.dev/lensa/query-console?utm_source=github&utm_medium=repo&utm_campaign=gh-readme)
 
 ## Лицензия
 
