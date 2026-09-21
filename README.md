@@ -1,3 +1,5 @@
+[<img src="infostart-logo.svg" alt="Инфостарт" height="28">](https://infostart.ru/public/2789002/) Статья на Инфостарте: [Внешняя обработка в 1С без конфигуратора: от задачи словами до .epf с ИИ-агентом](https://infostart.ru/public/2789002/)
+
 <p align="center">
   <img src=".github/social-preview.png" alt="Линза - Консоль запросов 1С с ИИ" width="640">
 </p>
