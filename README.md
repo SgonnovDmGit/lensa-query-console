@@ -163,12 +163,6 @@
 
 Все ролики - на канале [@LenSaCodeAI](https://www.youtube.com/@LenSaCodeAI).
 
-## Полная версия
-
-Профессиональный редактор с подсветкой и автодополнением, фоновое выполнение, навигатор
-пакетов и временных таблиц, анализ строк результата ИИ-агентом. Продается одним платежом,
-без подписки - [digitalmechanics.dev/lensa/query-console](https://digitalmechanics.dev/lensa/query-console?utm_source=github&utm_medium=repo&utm_campaign=gh-readme)
-
 ## Лицензия
 
 Демо-редакция распространяется бесплатно и бессрочно. Это **не open source** -
